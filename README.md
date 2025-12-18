@@ -46,7 +46,7 @@ js-jarvis/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/js-jarvis.git
+git clone https://github.com/Utttkkkarsh2005/js-jarvis.git
 ```
 
 2. Open the project folder
