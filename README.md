@@ -113,7 +113,7 @@ This project is licensed under the **MIT License**.
 **Uttkarsh Miglani**
 Front-End Developer | BCA Student
 
-🔗 GitHub: [https://github.com/your-username](https://github.com/Utttkkkarsh2005)
+🔗 GitHub: https://github.com/Utttkkkarsh2005
 
 ---
 
